@@ -1,0 +1,57 @@
+# יניב ועקנין — Generative Engine Optimization Map
+
+> A בריאות ורפואה משלימה business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-c63fa30b.zappy5.app
+גלו את שיטת TMS המתקדמת לטיפול בכאב כרוני ופיברומיאלגיה ללא תרופות. התחילו את המסע שלכם להקלה אמיתית עוד היום!
+
+### הטיפולים שלנו
+https://-c63fa30b.zappy5.app/services
+גלו את מגוון הטיפולים שלנו בשיטת TMS לכאב כרוני, פיברומיאלגיה וכאבי גב. פתרונות טבעיים ומותאמים אישית ללא תרופות.
+
+### אודות
+https://-c63fa30b.zappy5.app/about
+הכירו את יניב ועקנין ואת הגישה הייחודית שלנו לטיפול בכאב כרוני בשיטת TMS. שנים של ניסיון והתמחות בפיברומיאלגיה וכאבים כרוניים.
+
+### צור קשר
+https://-c63fa30b.zappy5.app/contact
+צרו קשר עוד היום לקביעת פגישת ייעוץ ראשונית. נשמח לענות על שאלות ולעזור לכם להתחיל את המסע להקלה מכאב כרוני.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c63fa30b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c63fa30b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c63fa30b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יניב ועקנין
+יניב ועקנין is a business in the בריאות ורפואה משלימה industry.
+
+## Target Audience
+אנשים הסובלים מכאב כרוני ופיברומיאלגיה
+
+## Industry
+בריאות ורפואה משלימה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-c63fa30b.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-c63fa30b.zappy5.app/robots.txt
